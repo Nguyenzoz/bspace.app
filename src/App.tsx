@@ -1,7 +1,3 @@
-
-import './App.css'
-import React from "react";
-
 function App() {
   return (
     <div style={{ fontFamily: "sans-serif", margin: 0, padding: 0 }}>
@@ -85,4 +81,3 @@ function App() {
 }
 
 export default App;
-
